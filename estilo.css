@@ -1,0 +1,62 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background:white;
+  background-image: url(imagens/Futebol-.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.logo {
+  margin:auto;
+  width: 100%;
+  color: white;
+  text-align: center;
+  text-shadow: 4px 4px 4px black;
+  text-transform: uppercase;
+  font-size: 25px;
+  position: fixed;
+
+}
+ 
+
+footer {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.8);
+  height:50px;
+  width: 100%;
+  margin:auto;
+  bottom:15px;
+  border-bottom:  2.5px solid white;
+  padding-bottom: 20px;
+  position: fixed;
+}
+
+.lista li {
+  list-style: none;
+  display: inline-block;
+  margin: 0;
+  padding-top: 10px;
+  padding-left: 8px;
+  color: white;
+  text-shadow: 3px 3px 3px black;
+  text-transform: uppercase;
+}
+
+  
+
+
+
+   
+    
+  
+
+
+     
+
+  
+ 
+
+
+
