@@ -2,7 +2,7 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   background:white;
-  background-image: url(imagens/Futebol-.jpg);
+  background-image: url(../imagens/Futebol-.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size:cover;
